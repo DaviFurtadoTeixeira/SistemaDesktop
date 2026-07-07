@@ -6,7 +6,7 @@ public class Sistema_Estacionamento {
 		int vagas=20;
 		int valor_hora=5;
 		while(true) {
-			System.out.println("======= Estacionamento Denis =======");
+			System.out.println("============ Estacionamento Denis ============");
 			System.out.println("Estacionamento limitados a veículos de 4 rodas! R$ 5/Hora");
 			System.out.println();
 			System.out.println();
@@ -83,6 +83,7 @@ public class Sistema_Estacionamento {
 				System.out.print("O valor total a ser pago é de R$");
 				System.out.println(quantidade_horas*valor_hora);
 				System.out.println();
+				vagas+=1;
 				}
 			}else if (escolher_opcao==4) {
 				System.out.println("Espero que tenhamos ajudado, deixando o progama...");
