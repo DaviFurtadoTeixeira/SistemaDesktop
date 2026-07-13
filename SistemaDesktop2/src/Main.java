@@ -7,7 +7,7 @@ public class Main {
 		Pesquisar_produtos pesquisarp=new Pesquisar_produtos();
 		
 		//cadastrarp.Cadastrar_produtos();
-		//comprarp.Comprar_produto(cadastrarp);
+		//comprarp.Comprar_produto(cadastrarp);.
 		//pesquisarp.pesquisar_produto();
 		Scanner inputl=new Scanner(System.in);
 		Scanner inputn=new Scanner(System.in);
