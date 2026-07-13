@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Sistema_Estacionamento {
 	public static void main(String[] args) {
+		// Este sistema está incompleto, possui apenas o basico da progamação e tem alguns erros que não foram solucionados.
 		Scanner inputl=new Scanner(System.in);
 		Scanner inputn=new Scanner(System.in);
 		int vagas=20;
